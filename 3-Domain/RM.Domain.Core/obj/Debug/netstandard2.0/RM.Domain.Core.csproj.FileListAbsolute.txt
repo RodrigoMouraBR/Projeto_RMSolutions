@@ -1,0 +1,9 @@
+/Users/rodrigomoura/Documents/RMSolutions/3-Domain/RM.Domain.Core/bin/Debug/netstandard2.0/RM.Domain.Core.deps.json
+/Users/rodrigomoura/Documents/RMSolutions/3-Domain/RM.Domain.Core/bin/Debug/netstandard2.0/RM.Domain.Core.dll
+/Users/rodrigomoura/Documents/RMSolutions/3-Domain/RM.Domain.Core/bin/Debug/netstandard2.0/RM.Domain.Core.pdb
+/Users/rodrigomoura/Documents/RMSolutions/3-Domain/RM.Domain.Core/obj/Debug/netstandard2.0/RM.Domain.Core.csprojAssemblyReference.cache
+/Users/rodrigomoura/Documents/RMSolutions/3-Domain/RM.Domain.Core/obj/Debug/netstandard2.0/RM.Domain.Core.csproj.CoreCompileInputs.cache
+/Users/rodrigomoura/Documents/RMSolutions/3-Domain/RM.Domain.Core/obj/Debug/netstandard2.0/RM.Domain.Core.AssemblyInfoInputs.cache
+/Users/rodrigomoura/Documents/RMSolutions/3-Domain/RM.Domain.Core/obj/Debug/netstandard2.0/RM.Domain.Core.AssemblyInfo.cs
+/Users/rodrigomoura/Documents/RMSolutions/3-Domain/RM.Domain.Core/obj/Debug/netstandard2.0/RM.Domain.Core.dll
+/Users/rodrigomoura/Documents/RMSolutions/3-Domain/RM.Domain.Core/obj/Debug/netstandard2.0/RM.Domain.Core.pdb

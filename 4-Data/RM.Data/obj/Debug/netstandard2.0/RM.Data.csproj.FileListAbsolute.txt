@@ -1,0 +1,14 @@
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/bin/Debug/netstandard2.0/RM.Data.deps.json
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/bin/Debug/netstandard2.0/RM.Data.dll
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/bin/Debug/netstandard2.0/RM.Data.pdb
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/obj/Debug/netstandard2.0/RM.Data.csproj.CoreCompileInputs.cache
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/obj/Debug/netstandard2.0/RM.Data.AssemblyInfoInputs.cache
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/obj/Debug/netstandard2.0/RM.Data.AssemblyInfo.cs
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/obj/Debug/netstandard2.0/RM.Data.dll
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/obj/Debug/netstandard2.0/RM.Data.pdb
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/bin/Debug/netstandard2.0/RM.Domain.Core.dll
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/bin/Debug/netstandard2.0/RM.Domain.dll
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/bin/Debug/netstandard2.0/RM.Domain.pdb
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/bin/Debug/netstandard2.0/RM.Domain.Core.pdb
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/obj/Debug/netstandard2.0/RM.Data.csprojAssemblyReference.cache
+/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/obj/Debug/netstandard2.0/RM.Data.csproj.CopyComplete
