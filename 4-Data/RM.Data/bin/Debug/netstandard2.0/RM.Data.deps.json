@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "1e1cf2dbbe4a2003dd81ecb2e0f9b365824eb69d"
+    "signature": "345eb24bf753941cfcd9b05a586e3c3e0e716114"
   },
   "compilationOptions": {},
   "targets": {
@@ -19,6 +19,17 @@
         },
         "runtime": {
           "RM.Data.dll": {}
+        }
+      },
+      "FluentValidation/8.1.2": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.1.2.0"
+          }
         }
       },
       "Microsoft.CSharp/4.5.0": {
@@ -629,6 +640,9 @@
         }
       },
       "RM.Domain.Core/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "8.1.2"
+        },
         "runtime": {
           "RM.Domain.Core.dll": {}
         }
@@ -640,6 +654,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/8.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xLK59Y1itHq3ni1M79GtO3GlzLnDWwoud/lC4BUOQaKfHPjsRw5z/dvXuG1Inmt0qKRO8m90kEzjNlxL4mb6Uw==",
+      "path": "fluentvalidation/8.1.2",
+      "hashPath": "fluentvalidation.8.1.2.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",

@@ -11,7 +11,7 @@ using RM.Domain.Interfaces;
 
 namespace RM.Data.Repositories
 {
-    public class Repository<TEntity> : IRepository<TEntity> where TEntity : Entity
+    public class Repository<TEntity> : IRepository<TEntity> where TEntity : Entity<TEntity>
     {
         protected RMContext Db;
         protected DbSet<TEntity> DbSet;

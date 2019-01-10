@@ -5,7 +5,7 @@ using RM.Domain.Core.Entities;
 
 namespace RM.Domain.Interfaces
 {
-    public interface IRepository<TEntity> : IDisposable where TEntity : Entity
+    public interface IRepository<TEntity> : IDisposable where TEntity : Entity<TEntity>
     {
          void Add(TEntity obj);
          void Update(TEntity obj);
