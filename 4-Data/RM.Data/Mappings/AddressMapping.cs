@@ -27,6 +27,12 @@ namespace RM.Data.Mappings
             builder.Property(c=>c.ZipCode)
             .HasColumnType("char(20)")
             .IsRequired();
+
+             builder.HasOne(c=>c.Customer)
+             .WithMany(e=>e.Address)
+             .HasForeignKey(c=>c.CustomerId)
+             .IsRequired();
+
             builder.Ignore(c=>c.ValidationResult);
             builder.Ignore(c=>c.CascadeMode);
             builder.ToTable("Address");
