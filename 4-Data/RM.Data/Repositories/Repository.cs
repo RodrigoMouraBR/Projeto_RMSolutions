@@ -28,6 +28,7 @@ namespace RM.Data.Repositories
         public void Delete(Guid id)
         {
             DbSet.Remove(DbSet.Find(id));
+            
         }
 
         public void Dispose()
