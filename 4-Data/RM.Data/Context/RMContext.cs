@@ -21,7 +21,7 @@ namespace RM.Data.Context
         {
             var config = new ConfigurationBuilder()
             .SetBasePath(Directory.GetCurrentDirectory())
-            .AddJsonFile("appsettings.json")
+            .AddJsonFile(@"/Users/rodrigomoura/Documents/RMSolutions/4-Data/RM.Data/appsettings.json")
             .Build();
             optionsBuilder.UseSqlServer(config.GetConnectionString("DefaultConnection"));
         }
